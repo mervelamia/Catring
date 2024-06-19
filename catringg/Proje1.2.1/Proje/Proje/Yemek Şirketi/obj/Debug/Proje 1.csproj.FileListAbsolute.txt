@@ -1,0 +1,103 @@
+C:\Users\mrvlm\OneDrive\Masaüstü\Proje 1\bin\Debug\Proje 1.exe.config
+C:\Users\mrvlm\OneDrive\Masaüstü\Proje 1\bin\Debug\Proje 1.exe
+C:\Users\mrvlm\OneDrive\Masaüstü\Proje 1\bin\Debug\Proje 1.pdb
+C:\Users\mrvlm\OneDrive\Masaüstü\Proje 1\obj\Debug\Proje 1.csproj.AssemblyReference.cache
+C:\Users\mrvlm\OneDrive\Masaüstü\Proje 1\obj\Debug\Proje 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\mrvlm\OneDrive\Masaüstü\Proje 1\obj\Debug\Proje_1.Form1.resources
+C:\Users\mrvlm\OneDrive\Masaüstü\Proje 1\obj\Debug\Proje_1.OrmanKebabıForm.resources
+C:\Users\mrvlm\OneDrive\Masaüstü\Proje 1\obj\Debug\Proje_1.PilavForm.resources
+C:\Users\mrvlm\OneDrive\Masaüstü\Proje 1\obj\Debug\Proje_1.Properties.Resources.resources
+C:\Users\mrvlm\OneDrive\Masaüstü\Proje 1\obj\Debug\Proje_1.RostoKofte.resources
+C:\Users\mrvlm\OneDrive\Masaüstü\Proje 1\obj\Debug\Proje_1.SosluMakarnaForm.resources
+C:\Users\mrvlm\OneDrive\Masaüstü\Proje 1\obj\Debug\Proje_1.TarifForm.resources
+C:\Users\mrvlm\OneDrive\Masaüstü\Proje 1\obj\Debug\Proje_1.TarifForm1.resources
+C:\Users\mrvlm\OneDrive\Masaüstü\Proje 1\obj\Debug\Proje_1.TarifForm2.resources
+C:\Users\mrvlm\OneDrive\Masaüstü\Proje 1\obj\Debug\Proje_1.TarifForm3.resources
+C:\Users\mrvlm\OneDrive\Masaüstü\Proje 1\obj\Debug\Proje_1.TarifForm4.resources
+C:\Users\mrvlm\OneDrive\Masaüstü\Proje 1\obj\Debug\Proje_1.TavukTantuniForm.resources
+C:\Users\mrvlm\OneDrive\Masaüstü\Proje 1\obj\Debug\Proje 1.csproj.GenerateResource.cache
+C:\Users\mrvlm\OneDrive\Masaüstü\Proje 1\obj\Debug\Proje 1.csproj.CoreCompileInputs.cache
+C:\Users\mrvlm\OneDrive\Masaüstü\Proje 1\obj\Debug\Proje 1.exe
+C:\Users\mrvlm\OneDrive\Masaüstü\Proje 1\obj\Debug\Proje 1.pdb
+C:\Users\serka\Desktop\proje\birleşm1\Yemek Şirketi\bin\Debug\Proje 1.exe.config
+C:\Users\serka\Desktop\proje\birleşm1\Yemek Şirketi\bin\Debug\Proje 1.exe
+C:\Users\serka\Desktop\proje\birleşm1\Yemek Şirketi\bin\Debug\Proje 1.pdb
+C:\Users\serka\Desktop\proje\birleşm1\Yemek Şirketi\obj\Debug\Proje 1.csproj.AssemblyReference.cache
+C:\Users\serka\Desktop\proje\birleşm1\Yemek Şirketi\obj\Debug\Proje_1.Form1.resources
+C:\Users\serka\Desktop\proje\birleşm1\Yemek Şirketi\obj\Debug\Proje_1.OrmanKebabıForm.resources
+C:\Users\serka\Desktop\proje\birleşm1\Yemek Şirketi\obj\Debug\Proje_1.PilavForm.resources
+C:\Users\serka\Desktop\proje\birleşm1\Yemek Şirketi\obj\Debug\Proje_1.Properties.Resources.resources
+C:\Users\serka\Desktop\proje\birleşm1\Yemek Şirketi\obj\Debug\Proje_1.RostoKofte.resources
+C:\Users\serka\Desktop\proje\birleşm1\Yemek Şirketi\obj\Debug\Proje_1.SosluMakarnaForm.resources
+C:\Users\serka\Desktop\proje\birleşm1\Yemek Şirketi\obj\Debug\Proje_1.TarifForm.resources
+C:\Users\serka\Desktop\proje\birleşm1\Yemek Şirketi\obj\Debug\Proje_1.TarifForm1.resources
+C:\Users\serka\Desktop\proje\birleşm1\Yemek Şirketi\obj\Debug\Proje_1.TarifForm2.resources
+C:\Users\serka\Desktop\proje\birleşm1\Yemek Şirketi\obj\Debug\Proje_1.TarifForm3.resources
+C:\Users\serka\Desktop\proje\birleşm1\Yemek Şirketi\obj\Debug\Proje_1.TarifForm4.resources
+C:\Users\serka\Desktop\proje\birleşm1\Yemek Şirketi\obj\Debug\Proje_1.TavukTantuniForm.resources
+C:\Users\serka\Desktop\proje\birleşm1\Yemek Şirketi\obj\Debug\Proje 1.csproj.GenerateResource.cache
+C:\Users\serka\Desktop\proje\birleşm1\Yemek Şirketi\obj\Debug\Proje 1.csproj.CoreCompileInputs.cache
+C:\Users\serka\Desktop\proje\birleşm1\Yemek Şirketi\obj\Debug\Proje 1.exe
+C:\Users\serka\Desktop\proje\birleşm1\Yemek Şirketi\obj\Debug\Proje 1.pdb
+C:\Users\serka\Desktop\proje\yemek\Yeni klasör\Yemek Şirketi\bin\Debug\Proje 1.exe.config
+C:\Users\serka\Desktop\proje\yemek\Yeni klasör\Yemek Şirketi\bin\Debug\Proje 1.exe
+C:\Users\serka\Desktop\proje\yemek\Yeni klasör\Yemek Şirketi\bin\Debug\Proje 1.pdb
+C:\Users\serka\Desktop\proje\yemek\Yeni klasör\Yemek Şirketi\obj\Debug\Proje 1.csproj.AssemblyReference.cache
+C:\Users\serka\Desktop\proje\yemek\Yeni klasör\Yemek Şirketi\obj\Debug\Proje_1.Form1.resources
+C:\Users\serka\Desktop\proje\yemek\Yeni klasör\Yemek Şirketi\obj\Debug\Proje_1.OrmanKebabıForm.resources
+C:\Users\serka\Desktop\proje\yemek\Yeni klasör\Yemek Şirketi\obj\Debug\Proje_1.PilavForm.resources
+C:\Users\serka\Desktop\proje\yemek\Yeni klasör\Yemek Şirketi\obj\Debug\Proje_1.Properties.Resources.resources
+C:\Users\serka\Desktop\proje\yemek\Yeni klasör\Yemek Şirketi\obj\Debug\Proje_1.RostoKofte.resources
+C:\Users\serka\Desktop\proje\yemek\Yeni klasör\Yemek Şirketi\obj\Debug\Proje_1.SosluMakarnaForm.resources
+C:\Users\serka\Desktop\proje\yemek\Yeni klasör\Yemek Şirketi\obj\Debug\Proje_1.TarifForm.resources
+C:\Users\serka\Desktop\proje\yemek\Yeni klasör\Yemek Şirketi\obj\Debug\Proje_1.TarifForm1.resources
+C:\Users\serka\Desktop\proje\yemek\Yeni klasör\Yemek Şirketi\obj\Debug\Proje_1.TarifForm2.resources
+C:\Users\serka\Desktop\proje\yemek\Yeni klasör\Yemek Şirketi\obj\Debug\Proje_1.TarifForm3.resources
+C:\Users\serka\Desktop\proje\yemek\Yeni klasör\Yemek Şirketi\obj\Debug\Proje_1.TarifForm4.resources
+C:\Users\serka\Desktop\proje\yemek\Yeni klasör\Yemek Şirketi\obj\Debug\Proje_1.TavukTantuniForm.resources
+C:\Users\serka\Desktop\proje\yemek\Yeni klasör\Yemek Şirketi\obj\Debug\Proje 1.csproj.GenerateResource.cache
+C:\Users\serka\Desktop\proje\yemek\Yeni klasör\Yemek Şirketi\obj\Debug\Proje 1.csproj.CoreCompileInputs.cache
+C:\Users\serka\Desktop\proje\yemek\Yeni klasör\Yemek Şirketi\obj\Debug\Proje 1.exe
+C:\Users\serka\Desktop\proje\yemek\Yeni klasör\Yemek Şirketi\obj\Debug\Proje 1.pdb
+C:\Users\halil\Downloads\Proje1.2.1\Proje1.2.1\Proje\Proje\Yemek Şirketi\bin\Debug\Proje 1.exe.config
+C:\Users\halil\Downloads\Proje1.2.1\Proje1.2.1\Proje\Proje\Yemek Şirketi\bin\Debug\Proje 1.exe
+C:\Users\halil\Downloads\Proje1.2.1\Proje1.2.1\Proje\Proje\Yemek Şirketi\bin\Debug\Proje 1.pdb
+C:\Users\halil\Downloads\Proje1.2.1\Proje1.2.1\Proje\Proje\Yemek Şirketi\obj\Debug\Proje 1.csproj.AssemblyReference.cache
+C:\Users\halil\Downloads\Proje1.2.1\Proje1.2.1\Proje\Proje\Yemek Şirketi\obj\Debug\Proje_1.Form1.resources
+C:\Users\halil\Downloads\Proje1.2.1\Proje1.2.1\Proje\Proje\Yemek Şirketi\obj\Debug\Proje_1.OrmanKebabıForm.resources
+C:\Users\halil\Downloads\Proje1.2.1\Proje1.2.1\Proje\Proje\Yemek Şirketi\obj\Debug\Proje_1.PilavForm.resources
+C:\Users\halil\Downloads\Proje1.2.1\Proje1.2.1\Proje\Proje\Yemek Şirketi\obj\Debug\Proje_1.PilavYemek.resources
+C:\Users\halil\Downloads\Proje1.2.1\Proje1.2.1\Proje\Proje\Yemek Şirketi\obj\Debug\Proje_1.Properties.Resources.resources
+C:\Users\halil\Downloads\Proje1.2.1\Proje1.2.1\Proje\Proje\Yemek Şirketi\obj\Debug\Proje_1.RostoKofte.resources
+C:\Users\halil\Downloads\Proje1.2.1\Proje1.2.1\Proje\Proje\Yemek Şirketi\obj\Debug\Proje_1.SosluMakarnaForm.resources
+C:\Users\halil\Downloads\Proje1.2.1\Proje1.2.1\Proje\Proje\Yemek Şirketi\obj\Debug\Proje_1.TarifForm.resources
+C:\Users\halil\Downloads\Proje1.2.1\Proje1.2.1\Proje\Proje\Yemek Şirketi\obj\Debug\Proje_1.TarifForm1.resources
+C:\Users\halil\Downloads\Proje1.2.1\Proje1.2.1\Proje\Proje\Yemek Şirketi\obj\Debug\Proje_1.TarifForm2.resources
+C:\Users\halil\Downloads\Proje1.2.1\Proje1.2.1\Proje\Proje\Yemek Şirketi\obj\Debug\Proje_1.TarifForm3.resources
+C:\Users\halil\Downloads\Proje1.2.1\Proje1.2.1\Proje\Proje\Yemek Şirketi\obj\Debug\Proje_1.TarifForm4.resources
+C:\Users\halil\Downloads\Proje1.2.1\Proje1.2.1\Proje\Proje\Yemek Şirketi\obj\Debug\Proje_1.TavukTantuniForm.resources
+C:\Users\halil\Downloads\Proje1.2.1\Proje1.2.1\Proje\Proje\Yemek Şirketi\obj\Debug\Proje 1.csproj.GenerateResource.cache
+C:\Users\halil\Downloads\Proje1.2.1\Proje1.2.1\Proje\Proje\Yemek Şirketi\obj\Debug\Proje 1.csproj.CoreCompileInputs.cache
+C:\Users\halil\Downloads\Proje1.2.1\Proje1.2.1\Proje\Proje\Yemek Şirketi\obj\Debug\Proje 1.exe
+C:\Users\halil\Downloads\Proje1.2.1\Proje1.2.1\Proje\Proje\Yemek Şirketi\obj\Debug\Proje 1.pdb
+C:\Users\halil\Downloads\Proje1.2.2\Proje1.2.1\Proje\Proje\Yemek Şirketi\bin\Debug\Proje 1.exe.config
+C:\Users\halil\Downloads\Proje1.2.2\Proje1.2.1\Proje\Proje\Yemek Şirketi\bin\Debug\Proje 1.exe
+C:\Users\halil\Downloads\Proje1.2.2\Proje1.2.1\Proje\Proje\Yemek Şirketi\bin\Debug\Proje 1.pdb
+C:\Users\halil\Downloads\Proje1.2.2\Proje1.2.1\Proje\Proje\Yemek Şirketi\obj\Debug\Proje 1.csproj.AssemblyReference.cache
+C:\Users\halil\Downloads\Proje1.2.2\Proje1.2.1\Proje\Proje\Yemek Şirketi\obj\Debug\Proje_1.Form1.resources
+C:\Users\halil\Downloads\Proje1.2.2\Proje1.2.1\Proje\Proje\Yemek Şirketi\obj\Debug\Proje_1.OrmanKebabıForm.resources
+C:\Users\halil\Downloads\Proje1.2.2\Proje1.2.1\Proje\Proje\Yemek Şirketi\obj\Debug\Proje_1.PilavForm.resources
+C:\Users\halil\Downloads\Proje1.2.2\Proje1.2.1\Proje\Proje\Yemek Şirketi\obj\Debug\Proje_1.PilavYemek.resources
+C:\Users\halil\Downloads\Proje1.2.2\Proje1.2.1\Proje\Proje\Yemek Şirketi\obj\Debug\Proje_1.Properties.Resources.resources
+C:\Users\halil\Downloads\Proje1.2.2\Proje1.2.1\Proje\Proje\Yemek Şirketi\obj\Debug\Proje_1.RostoKofte.resources
+C:\Users\halil\Downloads\Proje1.2.2\Proje1.2.1\Proje\Proje\Yemek Şirketi\obj\Debug\Proje_1.SosluMakarnaForm.resources
+C:\Users\halil\Downloads\Proje1.2.2\Proje1.2.1\Proje\Proje\Yemek Şirketi\obj\Debug\Proje_1.TarifForm.resources
+C:\Users\halil\Downloads\Proje1.2.2\Proje1.2.1\Proje\Proje\Yemek Şirketi\obj\Debug\Proje_1.TarifForm1.resources
+C:\Users\halil\Downloads\Proje1.2.2\Proje1.2.1\Proje\Proje\Yemek Şirketi\obj\Debug\Proje_1.TarifForm2.resources
+C:\Users\halil\Downloads\Proje1.2.2\Proje1.2.1\Proje\Proje\Yemek Şirketi\obj\Debug\Proje_1.TarifForm3.resources
+C:\Users\halil\Downloads\Proje1.2.2\Proje1.2.1\Proje\Proje\Yemek Şirketi\obj\Debug\Proje_1.TarifForm4.resources
+C:\Users\halil\Downloads\Proje1.2.2\Proje1.2.1\Proje\Proje\Yemek Şirketi\obj\Debug\Proje_1.TavukTantuniForm.resources
+C:\Users\halil\Downloads\Proje1.2.2\Proje1.2.1\Proje\Proje\Yemek Şirketi\obj\Debug\Proje 1.csproj.GenerateResource.cache
+C:\Users\halil\Downloads\Proje1.2.2\Proje1.2.1\Proje\Proje\Yemek Şirketi\obj\Debug\Proje 1.csproj.CoreCompileInputs.cache
+C:\Users\halil\Downloads\Proje1.2.2\Proje1.2.1\Proje\Proje\Yemek Şirketi\obj\Debug\Proje 1.exe
+C:\Users\halil\Downloads\Proje1.2.2\Proje1.2.1\Proje\Proje\Yemek Şirketi\obj\Debug\Proje 1.pdb

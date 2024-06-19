@@ -1,0 +1,177 @@
+C:\Users\serka\source\repos\yemek\yemek\bin\Debug\yemek.exe.config
+C:\Users\serka\source\repos\yemek\yemek\bin\Debug\yemek.exe
+C:\Users\serka\source\repos\yemek\yemek\bin\Debug\yemek.pdb
+C:\Users\serka\source\repos\yemek\yemek\obj\Debug\yemek.csproj.AssemblyReference.cache
+C:\Users\serka\source\repos\yemek\yemek\obj\Debug\yemek.Properties.Resources.resources
+C:\Users\serka\source\repos\yemek\yemek\obj\Debug\yemek.csproj.GenerateResource.cache
+C:\Users\serka\source\repos\yemek\yemek\obj\Debug\yemek.csproj.CoreCompileInputs.cache
+C:\Users\serka\source\repos\yemek\yemek\obj\Debug\yemek.exe
+C:\Users\serka\source\repos\yemek\yemek\obj\Debug\yemek.pdb
+C:\Users\serka\source\repos\yemek\yemek\obj\Debug\yemek.Login.Form1.resources
+C:\Users\serka\source\repos\yemek\yemek\obj\Debug\yemek.Arayüz.Arayüz.resources
+C:\Users\serka\source\repos\yemek\yemek\obj\Debug\yemek.Arayüz.Teslimat.resources
+C:\Users\serka\source\repos\yemek\yemek\obj\Debug\yemek.Ayarlar.kdvayarı.resources
+C:\Users\serka\source\repos\yemek\yemek\obj\Debug\yemek.Arayüz.anasayfa.resources
+C:\Users\serka\source\repos\yemek\yemek\obj\Debug\yemek.Arayüz.Yönetim.resources
+C:\Users\serka\Desktop\proje\yemek\Yeni klasör\yemek\yemek\bin\Debug\yemek.exe.config
+C:\Users\serka\Desktop\proje\yemek\Yeni klasör\yemek\yemek\bin\Debug\yemek.exe
+C:\Users\serka\Desktop\proje\yemek\Yeni klasör\yemek\yemek\bin\Debug\yemek.pdb
+C:\Users\serka\Desktop\proje\yemek\Yeni klasör\yemek\yemek\bin\Debug\Proje 1.exe
+C:\Users\serka\Desktop\proje\yemek\Yeni klasör\yemek\yemek\bin\Debug\Proje 1.pdb
+C:\Users\serka\Desktop\proje\yemek\Yeni klasör\yemek\yemek\bin\Debug\Proje 1.exe.config
+C:\Users\serka\Desktop\proje\yemek\Yeni klasör\yemek\yemek\obj\Debug\yemek.csproj.AssemblyReference.cache
+C:\Users\serka\Desktop\proje\yemek\Yeni klasör\yemek\yemek\obj\Debug\yemek.Arayüz.Anasayfa.resources
+C:\Users\serka\Desktop\proje\yemek\Yeni klasör\yemek\yemek\obj\Debug\yemek.Arayüz.Arayüz.resources
+C:\Users\serka\Desktop\proje\yemek\Yeni klasör\yemek\yemek\obj\Debug\yemek.Arayüz.Yönetim.resources
+C:\Users\serka\Desktop\proje\yemek\Yeni klasör\yemek\yemek\obj\Debug\yemek.Ayarlar.kdvayarı.resources
+C:\Users\serka\Desktop\proje\yemek\Yeni klasör\yemek\yemek\obj\Debug\yemek.Arayüz.Teslimat.resources
+C:\Users\serka\Desktop\proje\yemek\Yeni klasör\yemek\yemek\obj\Debug\yemek.Login.Form1.resources
+C:\Users\serka\Desktop\proje\yemek\Yeni klasör\yemek\yemek\obj\Debug\yemek.Properties.Resources.resources
+C:\Users\serka\Desktop\proje\yemek\Yeni klasör\yemek\yemek\obj\Debug\yemek.csproj.GenerateResource.cache
+C:\Users\serka\Desktop\proje\yemek\Yeni klasör\yemek\yemek\obj\Debug\yemek.csproj.CoreCompileInputs.cache
+C:\Users\serka\Desktop\proje\yemek\Yeni klasör\yemek\yemek\obj\Debug\yemek.csproj.CopyComplete
+C:\Users\serka\Desktop\proje\yemek\Yeni klasör\yemek\yemek\obj\Debug\yemek.exe
+C:\Users\serka\Desktop\proje\yemek\Yeni klasör\yemek\yemek\obj\Debug\yemek.pdb
+C:\Users\serka\Desktop\proje\yemek\Yeni klasör\yemek\yemek\obj\Debug\yemek.Ayarlar.uygulamaayar.resources
+C:\Users\serka\Desktop\son\Proje\yemek\yemek\bin\Debug\yemek.exe.config
+C:\Users\serka\Desktop\son\Proje\yemek\yemek\bin\Debug\yemek.exe
+C:\Users\serka\Desktop\son\Proje\yemek\yemek\bin\Debug\yemek.pdb
+C:\Users\serka\Desktop\son\Proje\yemek\yemek\bin\Debug\Proje 1.exe
+C:\Users\serka\Desktop\son\Proje\yemek\yemek\bin\Debug\Proje 1.pdb
+C:\Users\serka\Desktop\son\Proje\yemek\yemek\bin\Debug\Proje 1.exe.config
+C:\Users\serka\Desktop\son\Proje\yemek\yemek\obj\Debug\yemek.csproj.AssemblyReference.cache
+C:\Users\serka\Desktop\son\Proje\yemek\yemek\obj\Debug\yemek.Arayüz.Anasayfa.resources
+C:\Users\serka\Desktop\son\Proje\yemek\yemek\obj\Debug\yemek.Arayüz.Arayüz.resources
+C:\Users\serka\Desktop\son\Proje\yemek\yemek\obj\Debug\yemek.Arayüz.Yönetim.resources
+C:\Users\serka\Desktop\son\Proje\yemek\yemek\obj\Debug\yemek.Ayarlar.kdvayarı.resources
+C:\Users\serka\Desktop\son\Proje\yemek\yemek\obj\Debug\yemek.Ayarlar.uygulamaayar.resources
+C:\Users\serka\Desktop\son\Proje\yemek\yemek\obj\Debug\yemek.Arayüz.Teslimat.resources
+C:\Users\serka\Desktop\son\Proje\yemek\yemek\obj\Debug\yemek.Login.Form1.resources
+C:\Users\serka\Desktop\son\Proje\yemek\yemek\obj\Debug\yemek.Properties.Resources.resources
+C:\Users\serka\Desktop\son\Proje\yemek\yemek\obj\Debug\yemek.csproj.GenerateResource.cache
+C:\Users\serka\Desktop\son\Proje\yemek\yemek\obj\Debug\yemek.csproj.CoreCompileInputs.cache
+C:\Users\serka\Desktop\son\Proje\yemek\yemek\obj\Debug\yemek.csproj.CopyComplete
+C:\Users\serka\Desktop\son\Proje\yemek\yemek\obj\Debug\yemek.exe
+C:\Users\serka\Desktop\son\Proje\yemek\yemek\obj\Debug\yemek.pdb
+C:\Users\serka\Desktop\son\Proje\yemek\yemek\bin\Debug\catring.exe
+C:\Users\serka\Desktop\son\Proje\yemek\yemek\bin\Debug\catring.pdb
+C:\Users\serka\Desktop\son\Proje\yemek\yemek\bin\Debug\catring.exe.config
+C:\Users\halil\Downloads\Proje\Proje\yemek\yemek\bin\Debug\yemek.exe.config
+C:\Users\halil\Downloads\Proje\Proje\yemek\yemek\bin\Debug\yemek.exe
+C:\Users\halil\Downloads\Proje\Proje\yemek\yemek\bin\Debug\yemek.pdb
+C:\Users\halil\Downloads\Proje\Proje\yemek\yemek\bin\Debug\catring.exe
+C:\Users\halil\Downloads\Proje\Proje\yemek\yemek\bin\Debug\Proje 1.exe
+C:\Users\halil\Downloads\Proje\Proje\yemek\yemek\bin\Debug\catring.pdb
+C:\Users\halil\Downloads\Proje\Proje\yemek\yemek\bin\Debug\catring.exe.config
+C:\Users\halil\Downloads\Proje\Proje\yemek\yemek\bin\Debug\Proje 1.pdb
+C:\Users\halil\Downloads\Proje\Proje\yemek\yemek\bin\Debug\Proje 1.exe.config
+C:\Users\halil\Downloads\Proje\Proje\yemek\yemek\obj\Debug\yemek.csproj.AssemblyReference.cache
+C:\Users\halil\Downloads\Proje\Proje\yemek\yemek\obj\Debug\yemek.Arayüz.Anasayfa.resources
+C:\Users\halil\Downloads\Proje\Proje\yemek\yemek\obj\Debug\yemek.Arayüz.Arayüz.resources
+C:\Users\halil\Downloads\Proje\Proje\yemek\yemek\obj\Debug\yemek.Arayüz.Yönetim.resources
+C:\Users\halil\Downloads\Proje\Proje\yemek\yemek\obj\Debug\yemek.Ayarlar.kdvayarı.resources
+C:\Users\halil\Downloads\Proje\Proje\yemek\yemek\obj\Debug\yemek.Ayarlar.uygulamaayar.resources
+C:\Users\halil\Downloads\Proje\Proje\yemek\yemek\obj\Debug\yemek.Arayüz.Teslimat.resources
+C:\Users\halil\Downloads\Proje\Proje\yemek\yemek\obj\Debug\yemek.Login.Form1.resources
+C:\Users\halil\Downloads\Proje\Proje\yemek\yemek\obj\Debug\yemek.Properties.Resources.resources
+C:\Users\halil\Downloads\Proje\Proje\yemek\yemek\obj\Debug\yemek.csproj.GenerateResource.cache
+C:\Users\halil\Downloads\Proje\Proje\yemek\yemek\obj\Debug\yemek.csproj.CoreCompileInputs.cache
+C:\Users\halil\Downloads\Proje\Proje\yemek\yemek\obj\Debug\yemek.csproj.CopyComplete
+C:\Users\halil\Downloads\Proje\Proje\yemek\yemek\obj\Debug\yemek.exe
+C:\Users\halil\Downloads\Proje\Proje\yemek\yemek\obj\Debug\yemek.pdb
+C:\Users\serka\Downloads\Proje\Proje\yemek\yemek\bin\Debug\yemek.exe.config
+C:\Users\serka\Downloads\Proje\Proje\yemek\yemek\bin\Debug\yemek.exe
+C:\Users\serka\Downloads\Proje\Proje\yemek\yemek\bin\Debug\yemek.pdb
+C:\Users\serka\Downloads\Proje\Proje\yemek\yemek\bin\Debug\catring.exe
+C:\Users\serka\Downloads\Proje\Proje\yemek\yemek\bin\Debug\Proje 1.exe
+C:\Users\serka\Downloads\Proje\Proje\yemek\yemek\bin\Debug\catring.pdb
+C:\Users\serka\Downloads\Proje\Proje\yemek\yemek\bin\Debug\catring.exe.config
+C:\Users\serka\Downloads\Proje\Proje\yemek\yemek\bin\Debug\Proje 1.pdb
+C:\Users\serka\Downloads\Proje\Proje\yemek\yemek\bin\Debug\Proje 1.exe.config
+C:\Users\serka\Downloads\Proje\Proje\yemek\yemek\obj\Debug\yemek.csproj.AssemblyReference.cache
+C:\Users\serka\Downloads\Proje\Proje\yemek\yemek\obj\Debug\yemek.Arayüz.Anasayfa.resources
+C:\Users\serka\Downloads\Proje\Proje\yemek\yemek\obj\Debug\yemek.Arayüz.Arayüz.resources
+C:\Users\serka\Downloads\Proje\Proje\yemek\yemek\obj\Debug\yemek.Arayüz.Yönetim.resources
+C:\Users\serka\Downloads\Proje\Proje\yemek\yemek\obj\Debug\yemek.Ayarlar.kdvayarı.resources
+C:\Users\serka\Downloads\Proje\Proje\yemek\yemek\obj\Debug\yemek.Ayarlar.uygulamaayar.resources
+C:\Users\serka\Downloads\Proje\Proje\yemek\yemek\obj\Debug\yemek.Arayüz.Teslimat.resources
+C:\Users\serka\Downloads\Proje\Proje\yemek\yemek\obj\Debug\yemek.Login.Form1.resources
+C:\Users\serka\Downloads\Proje\Proje\yemek\yemek\obj\Debug\yemek.Properties.Resources.resources
+C:\Users\serka\Downloads\Proje\Proje\yemek\yemek\obj\Debug\yemek.csproj.GenerateResource.cache
+C:\Users\serka\Downloads\Proje\Proje\yemek\yemek\obj\Debug\yemek.csproj.CoreCompileInputs.cache
+C:\Users\serka\Downloads\Proje\Proje\yemek\yemek\obj\Debug\yemek.csproj.CopyComplete
+C:\Users\serka\Downloads\Proje\Proje\yemek\yemek\obj\Debug\yemek.exe
+C:\Users\serka\Downloads\Proje\Proje\yemek\yemek\obj\Debug\yemek.pdb
+C:\Users\serka\Downloads\Proje\Proje\yemek\yemek\obj\Debug\yemek.İşlemler.UpdateForm.resources
+C:\Users\halil\Downloads\Proje1.2\Proje\Proje\yemek\yemek\obj\Debug\yemek.csproj.AssemblyReference.cache
+C:\Users\halil\Downloads\Proje1.2\Proje\Proje\yemek\yemek\obj\Debug\yemek.Arayüz.Anasayfa.resources
+C:\Users\halil\Downloads\Proje1.2\Proje\Proje\yemek\yemek\obj\Debug\yemek.Arayüz.Arayüz.resources
+C:\Users\halil\Downloads\Proje1.2\Proje\Proje\yemek\yemek\obj\Debug\yemek.Arayüz.Yönetim.resources
+C:\Users\halil\Downloads\Proje1.2\Proje\Proje\yemek\yemek\obj\Debug\yemek.Ayarlar.kdvayarı.resources
+C:\Users\halil\Downloads\Proje1.2\Proje\Proje\yemek\yemek\obj\Debug\yemek.Ayarlar.uygulamaayar.resources
+C:\Users\halil\Downloads\Proje1.2\Proje\Proje\yemek\yemek\obj\Debug\yemek.Arayüz.Teslimat.resources
+C:\Users\halil\Downloads\Proje1.2\Proje\Proje\yemek\yemek\obj\Debug\yemek.Login.Form1.resources
+C:\Users\halil\Downloads\Proje1.2\Proje\Proje\yemek\yemek\obj\Debug\yemek.Properties.Resources.resources
+C:\Users\halil\Downloads\Proje1.2\Proje\Proje\yemek\yemek\obj\Debug\yemek.İşlemler.UpdateForm.resources
+C:\Users\halil\Downloads\Proje1.2\Proje\Proje\yemek\yemek\obj\Debug\yemek.csproj.GenerateResource.cache
+C:\Users\halil\Downloads\Proje1.2\Proje\Proje\yemek\yemek\obj\Debug\yemek.csproj.CoreCompileInputs.cache
+C:\Users\halil\Downloads\Proje1.2\Proje\Proje\yemek\yemek\obj\Debug\yemek.exe
+C:\Users\halil\Downloads\Proje1.2\Proje\Proje\yemek\yemek\obj\Debug\yemek.pdb
+C:\Users\halil\Downloads\Proje1.2\Proje\Proje\yemek\yemek\bin\Debug\yemek.exe.config
+C:\Users\halil\Downloads\Proje1.2\Proje\Proje\yemek\yemek\bin\Debug\yemek.exe
+C:\Users\halil\Downloads\Proje1.2\Proje\Proje\yemek\yemek\bin\Debug\yemek.pdb
+C:\Users\halil\Downloads\Proje1.2\Proje\Proje\yemek\yemek\bin\Debug\catring.exe
+C:\Users\halil\Downloads\Proje1.2\Proje\Proje\yemek\yemek\bin\Debug\Proje 1.exe
+C:\Users\halil\Downloads\Proje1.2\Proje\Proje\yemek\yemek\bin\Debug\catring.pdb
+C:\Users\halil\Downloads\Proje1.2\Proje\Proje\yemek\yemek\bin\Debug\catring.exe.config
+C:\Users\halil\Downloads\Proje1.2\Proje\Proje\yemek\yemek\bin\Debug\Proje 1.pdb
+C:\Users\halil\Downloads\Proje1.2\Proje\Proje\yemek\yemek\bin\Debug\Proje 1.exe.config
+C:\Users\halil\Downloads\Proje1.2\Proje\Proje\yemek\yemek\obj\Debug\yemek.csproj.CopyComplete
+C:\Users\halil\Downloads\Proje1.2.1\Proje1.2.1\Proje\Proje\yemek\yemek\bin\Debug\yemek.exe.config
+C:\Users\halil\Downloads\Proje1.2.1\Proje1.2.1\Proje\Proje\yemek\yemek\bin\Debug\yemek.exe
+C:\Users\halil\Downloads\Proje1.2.1\Proje1.2.1\Proje\Proje\yemek\yemek\bin\Debug\yemek.pdb
+C:\Users\halil\Downloads\Proje1.2.1\Proje1.2.1\Proje\Proje\yemek\yemek\bin\Debug\catring.exe
+C:\Users\halil\Downloads\Proje1.2.1\Proje1.2.1\Proje\Proje\yemek\yemek\bin\Debug\Proje 1.exe
+C:\Users\halil\Downloads\Proje1.2.1\Proje1.2.1\Proje\Proje\yemek\yemek\bin\Debug\catring.pdb
+C:\Users\halil\Downloads\Proje1.2.1\Proje1.2.1\Proje\Proje\yemek\yemek\bin\Debug\catring.exe.config
+C:\Users\halil\Downloads\Proje1.2.1\Proje1.2.1\Proje\Proje\yemek\yemek\bin\Debug\Proje 1.pdb
+C:\Users\halil\Downloads\Proje1.2.1\Proje1.2.1\Proje\Proje\yemek\yemek\bin\Debug\Proje 1.exe.config
+C:\Users\halil\Downloads\Proje1.2.1\Proje1.2.1\Proje\Proje\yemek\yemek\obj\Debug\yemek.csproj.AssemblyReference.cache
+C:\Users\halil\Downloads\Proje1.2.1\Proje1.2.1\Proje\Proje\yemek\yemek\obj\Debug\yemek.Arayüz.Anasayfa.resources
+C:\Users\halil\Downloads\Proje1.2.1\Proje1.2.1\Proje\Proje\yemek\yemek\obj\Debug\yemek.Arayüz.Arayüz.resources
+C:\Users\halil\Downloads\Proje1.2.1\Proje1.2.1\Proje\Proje\yemek\yemek\obj\Debug\yemek.Arayüz.Yönetim.resources
+C:\Users\halil\Downloads\Proje1.2.1\Proje1.2.1\Proje\Proje\yemek\yemek\obj\Debug\yemek.Ayarlar.kdvayarı.resources
+C:\Users\halil\Downloads\Proje1.2.1\Proje1.2.1\Proje\Proje\yemek\yemek\obj\Debug\yemek.Ayarlar.uygulamaayar.resources
+C:\Users\halil\Downloads\Proje1.2.1\Proje1.2.1\Proje\Proje\yemek\yemek\obj\Debug\yemek.Arayüz.Teslimat.resources
+C:\Users\halil\Downloads\Proje1.2.1\Proje1.2.1\Proje\Proje\yemek\yemek\obj\Debug\yemek.Login.Form1.resources
+C:\Users\halil\Downloads\Proje1.2.1\Proje1.2.1\Proje\Proje\yemek\yemek\obj\Debug\yemek.Properties.Resources.resources
+C:\Users\halil\Downloads\Proje1.2.1\Proje1.2.1\Proje\Proje\yemek\yemek\obj\Debug\yemek.İşlemler.UpdateForm.resources
+C:\Users\halil\Downloads\Proje1.2.1\Proje1.2.1\Proje\Proje\yemek\yemek\obj\Debug\yemek.csproj.GenerateResource.cache
+C:\Users\halil\Downloads\Proje1.2.1\Proje1.2.1\Proje\Proje\yemek\yemek\obj\Debug\yemek.csproj.CoreCompileInputs.cache
+C:\Users\halil\Downloads\Proje1.2.1\Proje1.2.1\Proje\Proje\yemek\yemek\obj\Debug\yemek.csproj.CopyComplete
+C:\Users\halil\Downloads\Proje1.2.1\Proje1.2.1\Proje\Proje\yemek\yemek\obj\Debug\yemek.exe
+C:\Users\halil\Downloads\Proje1.2.1\Proje1.2.1\Proje\Proje\yemek\yemek\obj\Debug\yemek.pdb
+C:\Users\halil\Downloads\Proje1.2.2\Proje1.2.1\Proje\Proje\yemek\yemek\bin\Debug\yemek.exe.config
+C:\Users\halil\Downloads\Proje1.2.2\Proje1.2.1\Proje\Proje\yemek\yemek\bin\Debug\yemek.exe
+C:\Users\halil\Downloads\Proje1.2.2\Proje1.2.1\Proje\Proje\yemek\yemek\bin\Debug\yemek.pdb
+C:\Users\halil\Downloads\Proje1.2.2\Proje1.2.1\Proje\Proje\yemek\yemek\bin\Debug\catring.exe
+C:\Users\halil\Downloads\Proje1.2.2\Proje1.2.1\Proje\Proje\yemek\yemek\bin\Debug\Proje 1.exe
+C:\Users\halil\Downloads\Proje1.2.2\Proje1.2.1\Proje\Proje\yemek\yemek\bin\Debug\catring.pdb
+C:\Users\halil\Downloads\Proje1.2.2\Proje1.2.1\Proje\Proje\yemek\yemek\bin\Debug\catring.exe.config
+C:\Users\halil\Downloads\Proje1.2.2\Proje1.2.1\Proje\Proje\yemek\yemek\bin\Debug\Proje 1.pdb
+C:\Users\halil\Downloads\Proje1.2.2\Proje1.2.1\Proje\Proje\yemek\yemek\bin\Debug\Proje 1.exe.config
+C:\Users\halil\Downloads\Proje1.2.2\Proje1.2.1\Proje\Proje\yemek\yemek\obj\Debug\yemek.csproj.AssemblyReference.cache
+C:\Users\halil\Downloads\Proje1.2.2\Proje1.2.1\Proje\Proje\yemek\yemek\obj\Debug\yemek.Arayüz.Anasayfa.resources
+C:\Users\halil\Downloads\Proje1.2.2\Proje1.2.1\Proje\Proje\yemek\yemek\obj\Debug\yemek.Arayüz.Arayüz.resources
+C:\Users\halil\Downloads\Proje1.2.2\Proje1.2.1\Proje\Proje\yemek\yemek\obj\Debug\yemek.Arayüz.Yönetim.resources
+C:\Users\halil\Downloads\Proje1.2.2\Proje1.2.1\Proje\Proje\yemek\yemek\obj\Debug\yemek.Ayarlar.kdvayarı.resources
+C:\Users\halil\Downloads\Proje1.2.2\Proje1.2.1\Proje\Proje\yemek\yemek\obj\Debug\yemek.Ayarlar.uygulamaayar.resources
+C:\Users\halil\Downloads\Proje1.2.2\Proje1.2.1\Proje\Proje\yemek\yemek\obj\Debug\yemek.Arayüz.Teslimat.resources
+C:\Users\halil\Downloads\Proje1.2.2\Proje1.2.1\Proje\Proje\yemek\yemek\obj\Debug\yemek.Login.Form1.resources
+C:\Users\halil\Downloads\Proje1.2.2\Proje1.2.1\Proje\Proje\yemek\yemek\obj\Debug\yemek.Properties.Resources.resources
+C:\Users\halil\Downloads\Proje1.2.2\Proje1.2.1\Proje\Proje\yemek\yemek\obj\Debug\yemek.İşlemler.UpdateForm.resources
+C:\Users\halil\Downloads\Proje1.2.2\Proje1.2.1\Proje\Proje\yemek\yemek\obj\Debug\yemek.csproj.GenerateResource.cache
+C:\Users\halil\Downloads\Proje1.2.2\Proje1.2.1\Proje\Proje\yemek\yemek\obj\Debug\yemek.csproj.CoreCompileInputs.cache
+C:\Users\halil\Downloads\Proje1.2.2\Proje1.2.1\Proje\Proje\yemek\yemek\obj\Debug\yemek.csproj.CopyComplete
+C:\Users\halil\Downloads\Proje1.2.2\Proje1.2.1\Proje\Proje\yemek\yemek\obj\Debug\yemek.exe
+C:\Users\halil\Downloads\Proje1.2.2\Proje1.2.1\Proje\Proje\yemek\yemek\obj\Debug\yemek.pdb
